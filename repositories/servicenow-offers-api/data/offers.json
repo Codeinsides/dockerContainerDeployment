@@ -1,0 +1,291 @@
+{
+  "offers": [
+    {
+      "title": "Senior ServiceNow Developer",
+      "company": "EPAM Systems",
+      "location": "Poland",
+      "apply_url": "https://careers.epam.com/en/vacancies?q=servicenow",
+      "category": "poland-priority",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "senior-servicenow-developer-epam-poland"
+    },
+    {
+      "title": "ServiceNow Architect",
+      "company": "DXC Technology",
+      "location": "Europe",
+      "apply_url": "https://careers.dxc.com/global/en/job/servicenow-architect",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-architect-dxc"
+    },
+    {
+      "title": "ServiceNow Consultant",
+      "company": "Capgemini",
+      "location": "Europe",
+      "apply_url": "https://www.capgemini.com/careers/job-search/?keyword=servicenow",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-consultant-capgemini"
+    },
+    {
+      "title": "ServiceNow CSM Developer",
+      "company": "Emerge Soft",
+      "location": "Remote / Warsaw",
+      "apply_url": "https://justjoin.it/job-offer/emerge-soft-servicenow-csm-developer-warszawa-javascript",
+      "category": "core-offer",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-csm-developer-emerge-soft-justjoinit"
+    },
+    {
+      "title": "ServiceNow CSM Developer",
+      "company": "Emerge Soft",
+      "location": "Remote",
+      "apply_url": "https://pl.talent.com/view?id=610302824330567519",
+      "category": "alt-listing",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-csm-developer-emerge-soft-talent-1"
+    },
+    {
+      "title": "ServiceNow Developer",
+      "company": "Accenture",
+      "location": "Europe",
+      "apply_url": "https://www.accenture.com/careers/jobdetails?id=servicenow-developer",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-developer-accenture"
+    },
+    {
+      "title": "ServiceNow Developer",
+      "company": "Aon",
+      "location": "Poland",
+      "apply_url": "https://jobs.aon.com/jobs?q=servicenow",
+      "category": "poland-priority",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-developer-aon-poland"
+    },
+    {
+      "title": "ServiceNow Developer",
+      "company": "Cognizant",
+      "location": "Europe",
+      "apply_url": "https://careers.cognizant.com/global/en/search-results?q=servicenow",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-developer-cognizant"
+    },
+    {
+      "title": "ServiceNow Developer CSM",
+      "company": "Emerge Soft",
+      "location": "Remote",
+      "apply_url": "https://pl.talent.com/view?id=610303559554043169",
+      "category": "alt-listing",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-developer-csm-emerge-soft-talent-2"
+    },
+    {
+      "title": "ServiceNow Developer / Engineer",
+      "company": "IBM",
+      "location": "Europe",
+      "apply_url": "https://careers.ibm.com/job/servicenow-developer",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-developer-ibm"
+    },
+    {
+      "title": "ServiceNow Developer",
+      "company": "Purview",
+      "location": "EU / UK projects",
+      "apply_url": "https://jobs.weekday.works/purview-servicenow-developer",
+      "category": "core-offer",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-developer-purview-weekday"
+    },
+    {
+      "title": "ServiceNow Developer",
+      "company": "Sii Poland",
+      "location": "Poland",
+      "apply_url": "https://sii.pl/oferty-pracy/?keyword=servicenow",
+      "category": "poland-priority",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-developer-sii-poland"
+    },
+    {
+      "title": "ServiceNow Engineer",
+      "company": "Fujitsu",
+      "location": "Europe",
+      "apply_url": "https://careers.fujitsu.com/global/en/search?q=servicenow",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-engineer-fujitsu"
+    },
+    {
+      "title": "ServiceNow Engineer",
+      "company": "NTT Data",
+      "location": "Europe",
+      "apply_url": "https://careers.nttdata.com/job/servicenow-engineer",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-engineer-ntt-data"
+    },
+    {
+      "title": "ServiceNow Jobs",
+      "company": "EURES",
+      "location": "EU",
+      "apply_url": "https://eures.ec.europa.eu/jobs/search",
+      "category": "one-click-platform",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-jobs-eures-eu"
+    },
+    {
+      "title": "ServiceNow Jobs",
+      "company": "JustJoinIT",
+      "location": "Europe",
+      "apply_url": "https://justjoin.it/all-locations/servicenow",
+      "category": "one-click-platform",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-jobs-justjoinit-europe"
+    },
+    {
+      "title": "ServiceNow Developer Jobs",
+      "company": "LinkedIn",
+      "location": "Europe",
+      "apply_url": "https://www.linkedin.com/jobs/servicenow-developer-jobs-europe",
+      "category": "one-click-platform",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-jobs-linkedin-europe"
+    },
+    {
+      "title": "ServiceNow Jobs",
+      "company": "NoFluffJobs",
+      "location": "Poland / Remote",
+      "apply_url": "https://nofluffjobs.com/pl/jobs/servicenow",
+      "category": "one-click-platform",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-jobs-nofluffjobs-poland"
+    },
+    {
+      "title": "ServiceNow Jobs",
+      "company": "WeAreDevelopers",
+      "location": "EU",
+      "apply_url": "https://www.wearedevelopers.com/jobs",
+      "category": "one-click-platform",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-jobs-wearedevelopers-eu"
+    },
+    {
+      "title": "ServiceNow Platform Consultant",
+      "company": "Sopra Steria",
+      "location": "Europe",
+      "apply_url": "https://careers.soprasteria.com/job-search?q=servicenow",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-platform-consultant-sopra-steria"
+    },
+    {
+      "title": "ServiceNow Senior Developer",
+      "company": "Deloitte",
+      "location": "Europe",
+      "apply_url": "https://apply.deloitte.com/careers/JobDetail/ServiceNow-Senior-Developer",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-senior-developer-deloitte"
+    },
+    {
+      "title": "ServiceNow Technical Consultant",
+      "company": "CGI",
+      "location": "Europe",
+      "apply_url": "https://cgi.njoyn.com/cgi/xweb/xweb.asp?tbtoken=servicenow",
+      "category": "direct-apply",
+      "tags": [
+        "servicenow",
+        "jobs",
+        "europe"
+      ],
+      "repository": "servicenow-technical-consultant-cgi"
+    }
+  ],
+  "total": 22
+}

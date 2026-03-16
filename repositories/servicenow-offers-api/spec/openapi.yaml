@@ -1,0 +1,27 @@
+openapi: 3.0.3
+info:
+  title: ServiceNow Offers API
+  version: 0.1.0
+servers:
+  - url: https://example.local
+paths:
+  /offers:
+    get:
+      summary: List tracked ServiceNow offers
+      responses:
+        "200":
+          description: A list of ServiceNow offers
+  /offers/{repository}:
+    get:
+      summary: Get a single offer by repository slug
+      parameters:
+        - in: path
+          name: repository
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Offer details
+        "404":
+          description: Offer not found
