@@ -1,0 +1,25 @@
+openapi: 3.0.3
+info:
+  title: ServiceNow HRSD Onboarding Orchestration API
+  version: 1.0.0
+servers:
+  - url: https://api.example.com
+paths:
+  /v1/onboarding/cohorts:
+    get:
+      summary: Read cohorts
+      responses:
+        "200":
+          description: Success
+  /v1/tasks/bottlenecks:
+    get:
+      summary: Read bottlenecks
+      responses:
+        "200":
+          description: Success
+  /v1/slas/compliance:
+    get:
+      summary: Read compliance
+      responses:
+        "200":
+          description: Success

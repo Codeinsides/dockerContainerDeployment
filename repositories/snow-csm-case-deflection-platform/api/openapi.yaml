@@ -1,0 +1,25 @@
+openapi: 3.0.3
+info:
+  title: ServiceNow CSM Case Deflection Platform API
+  version: 1.0.0
+servers:
+  - url: https://api.example.com
+paths:
+  /v1/intents:
+    get:
+      summary: Read intents
+      responses:
+        "200":
+          description: Success
+  /v1/deflection/metrics:
+    get:
+      summary: Read metrics
+      responses:
+        "200":
+          description: Success
+  /v1/knowledge/health:
+    get:
+      summary: Read health
+      responses:
+        "200":
+          description: Success
