@@ -24,3 +24,8 @@ Total repositories created: 22
 - [servicenow-jobs-nofluffjobs-poland](./servicenow-jobs-nofluffjobs-poland) — **ServiceNow Jobs**, NoFluffJobs (Poland / Remote) · [one-click-platform](https://nofluffjobs.com/pl/jobs/servicenow)
 - [servicenow-jobs-eures-eu](./servicenow-jobs-eures-eu) — **ServiceNow Jobs**, EURES (EU) · [one-click-platform](https://eures.ec.europa.eu/jobs/search)
 - [servicenow-jobs-wearedevelopers-eu](./servicenow-jobs-wearedevelopers-eu) — **ServiceNow Jobs**, WeAreDevelopers (EU) · [one-click-platform](https://www.wearedevelopers.com/jobs)
+
+## Shared Implementation Repositories
+- [snow-csm-case-deflection-platform](./snow-csm-case-deflection-platform)
+- [snow-itsm-incident-problem-automation](./snow-itsm-incident-problem-automation)
+- [snow-hrsd-onboarding-orchestration](./snow-hrsd-onboarding-orchestration)

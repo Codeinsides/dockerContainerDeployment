@@ -1,0 +1,25 @@
+openapi: 3.0.3
+info:
+  title: ServiceNow ITSM Incident-to-Problem Automation API
+  version: 1.0.0
+servers:
+  - url: https://api.example.com
+paths:
+  /v1/incidents/cluster:
+    get:
+      summary: Read cluster
+      responses:
+        "200":
+          description: Success
+  /v1/problems/candidates:
+    get:
+      summary: Read candidates
+      responses:
+        "200":
+          description: Success
+  /v1/changes/risk-score:
+    get:
+      summary: Read risk score
+      responses:
+        "200":
+          description: Success
